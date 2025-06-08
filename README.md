@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @sexualsalt774</h1>
 
 <p align="center">
-  🔥 FiveM Developer | Lua & JavaScript Enthusiast | Open to Collaborations 🔥
+  🔥 FiveM Developer | Lua & JavaScript | Open to Collaborations 🔥
 </p>
 
 ---
